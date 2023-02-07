@@ -50,6 +50,7 @@ class EnanaTest extends TestCase {
         $this->assertEquals([50,'viva'],$enana->pocimaExtra());
     }
 }
+#new
 
 
 ?>
